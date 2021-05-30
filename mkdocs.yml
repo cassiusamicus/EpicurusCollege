@@ -1,0 +1,51 @@
+site_name:  Epicurus College Course Material
+nav:
+    - Home: 'index.md'
+    - Introduction to Epicurean Philosophy: 'Introduction.md'
+    - Epicurean Physics: 'Physics.md'
+    - Epicurean Canonics: 'Canonics.md'
+    - Epicurean Ethics: 'Ethics.md'
+    - Epicurus On Romantic Love: 'RomanticLoce.md'
+    - Where Is Epicurus In the School of Athens?: 'SchoolOfAthens.md'
+
+plugins:
+  - search
+  
+theme:
+  name:  material
+  font:  false
+  #custom_dir: overrides
+  palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+        
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top 
+    - header.autohide
+    
+  
+    
+markdown_extensions:
+  - toc:
+      permalink: true
+
+copyright: Join us for discussion of the Epicurus College Course Materials at EpicureanFriends.com

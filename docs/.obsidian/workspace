@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "747c80679ad1beee",
+    "type": "split",
+    "children": [
+      {
+        "id": "83fcaded76d74694",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Text-Usener.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfb7b1cb9277a7a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db925cce7c8d0a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdc1ccac6e15b56f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc4bb9ddc4e3eec1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17de15082ae36eee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f585b00a8f2fbe44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ec2ff929ead0d01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Text-Usener.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79ec796db1ead3e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d29e3935ae6f3995",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Text-Usener.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "83fcaded76d74694",
+  "lastOpenFiles": [
+    "Text-Usener.md",
+    "Text-Lucretius-Bailey.md",
+    "Text-Epicurus-Extant-Remains.md",
+    "index.md"
+  ]
+}
